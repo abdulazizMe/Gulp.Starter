@@ -1,7 +1,7 @@
 {
   "name": "gulp-es",
   "version": "1.0.0",
-  "description": "gulp satarter",
+  "description": "gulp starter",
   "main": "index.js",
   "type": "module",
   "scripts": {
